@@ -7,11 +7,11 @@ The main focus of this project is to practice modern scroll-based animations, pa
 
 ## 🔗 Live Demo
 
-(Add your Netlify / GitHub Pages link here)
+https://modern-animation-page.netlify.app
 
 ## 📂 GitHub Repository
 
-(Add your GitHub repo link here)
+https://github.com/surajsrggupta/Modern-animated-page
 
 ---
 
