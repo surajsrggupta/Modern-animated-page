@@ -48,8 +48,6 @@ https://github.com/surajsrggupta/Modern-animated-page
 
 ---
 
-## 🤖 AI Tools Usage Disclosure
-
 ## 🤖 AI Tools Usage
 
 AI tools were used as a supportive resource during development for:
