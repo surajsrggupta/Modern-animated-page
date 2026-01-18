@@ -50,14 +50,14 @@ https://github.com/surajsrggupta/Modern-animated-page
 
 ## 🤖 AI Tools Usage Disclosure
 
-AI tools (ChatGPT) were used for:
+## 🤖 AI Tools Usage
 
-- Understanding animation concepts (GSAP, ScrollTrigger)
-- Clarifying JavaScript logic
-- Code structuring guidance
-- Learning best practices for frontend animations
+AI tools were used as a supportive resource during development for:
 
-All code was written and understood manually as part of the learning process.
+- Quick reference of syntax and APIs
+- Clarifying animation concepts and best practices
+- Improving code readability and structure
+- General problem-solving and optimization suggestions
 
 ---
 
@@ -66,17 +66,6 @@ All code was written and understood manually as part of the learning process.
 This project is created **only for educational and assignment purposes**.  
 All design inspiration belongs to **gentlerain.ai**.  
 No commercial use is intended.
-
----
-
-## 📸 Screen Recording
-
-A short (30–60 seconds) screen recording is included showing:
-
-- Page scrolling
-- Parallax effects
-- Hover interactions
-- Responsive behavior
 
 ---
 
